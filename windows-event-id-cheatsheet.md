@@ -1,5 +1,5 @@
 # Windows Event ID Cheat Sheet
-
+This cheat sheet summarizes critical Windows Event IDs commonly used by SOC analysts for threat detection, incident response, and log analysis.
 ## Authentication Events
 
 ### Event ID 4624 - Successful Logon
