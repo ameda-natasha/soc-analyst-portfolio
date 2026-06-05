@@ -108,6 +108,6 @@ executed it, from where, and what followed immediately after.
 
 A single IOC rarely tells the full story. Cross-referencing across
 multiple platforms builds confidence in your verdict. In this case,
-all three platforms agreed on the IP — 100% confidence, 50 threat
+all three platforms agreed on the IP - 100% confidence, 50 threat
 pulses, 15 vendor flags. That level of corroboration means escalation
 is the only correct action.
