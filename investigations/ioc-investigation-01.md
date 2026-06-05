@@ -25,7 +25,7 @@ AbuseIPDB, and AlienVault OTX.
 
 ## 3. Detailed Findings
 
-### IOC 1 — IP Address: 185.220.101.34
+### IOC 1 - IP Address: 185.220.101.34
 
 **VirusTotal**
 - Flagged by 15 out of 91 security vendors
@@ -57,7 +57,7 @@ incident requiring immediate escalation.
 
 ---
 
-### IOC 2 — File Hash: 275a021b...651fd0f
+### IOC 2 - File Hash: 275a021b...651fd0f
 
 **VirusTotal**
 - Flagged by 65 out of 67 security vendors
