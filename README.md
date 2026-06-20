@@ -45,16 +45,16 @@ Skills extracted from 5 live entry-level SOC job postings:
 
 | # | Skill | Status |
 |---|-------|--------|
-| 1 | SIEM monitoring & log analysis (Sentinel, Splunk, Elastic) | 🔄 In progress |
-| 2 | EDR monitoring & endpoint security (Microsoft Defender) | ⬜ Upcoming |
-| 3 | Alert triage — false positive vs. true positive classification | 🔄 In progress |
+| 1 | SIEM monitoring & log analysis (Sentinel, Splunk, Elastic) | ✅
+| 2 | EDR monitoring & endpoint security (Microsoft Defender) | ✅
+| 3 | Alert triage — false positive vs. true positive classification | ✅
 | 4 | Windows & Linux system internals | 🔄 In progress |
 | 5 | TCP/IP networking fundamentals | ✅ Foundation solid |
 | 6 | Incident documentation & ticketing | ⬜ Upcoming |
-| 7 | Alert enrichment & IOC lookup / threat intelligence | ⬜ Upcoming |
-| 8 | Phishing, malware & suspicious email analysis | ⬜ Upcoming |
+| 7 | Alert enrichment & IOC lookup / threat intelligence | ✅
+| 8 | Phishing, malware & suspicious email analysis |  ✅
 | 9 | Scripting for automation (Python, Bash, PowerShell) | 🔄 In progress |
-| 10 | MITRE ATT&CK framework familiarity | ⬜ Upcoming |
+| 10 | MITRE ATT&CK framework familiarity | ✅
 
 ---
 
@@ -62,12 +62,12 @@ Skills extracted from 5 live entry-level SOC job postings:
 
 | Project | Tools | Status |
 |---------|-------|--------|
-| Windows Event ID Cheat Sheet | Event Viewer, Markdown | ⬜ Day 2 |
-| SPL Query Library | Splunk | ⬜ Day 3 |
-| Wireshark Investigation Report | Wireshark, CyberDefenders | ⬜ Day 4 |
-| Phishing Triage SOP | VirusTotal, URLScan, MXToolbox | ⬜ Day 5 |
-| Sigma Detection Rule Library | Sigma, Uncoder.io | ⬜ Day 9 |
-| Incident Response Report | CyberDefenders, MITRE ATT&CK | ⬜ Day 10 |
+| Windows Event ID Cheat Sheet | Event Viewer, Markdown |✅ Day 2 |
+| SPL Query Library | Splunk |✅ Day 3 |
+| Wireshark Investigation Report | Wireshark, CyberDefenders | ✅ Day 4 |
+| Phishing Triage SOP | VirusTotal, URLScan, MXToolbox | ✅ Day 5 |
+| Sigma Detection Rule Library | Sigma, Uncoder.io | ✅ Day 9 |
+| Incident Response Report | CyberDefenders, MITRE ATT&CK | ✅ Day 10 |
 | SOC Alert Triage Python Tool | Python, VirusTotal API | ⬜ Day 17 |
 | Mini SOC Design Document | All tools | ⬜ Day 28 |
 
@@ -89,10 +89,10 @@ Skills extracted from 5 live entry-level SOC job postings:
 | Day | Focus | Key Output | Status |
 |-----|-------|-----------|--------|
 | [Day 1](./daily-logs/day-01.md) | SOC environment setup, job description analysis | GitHub repo live, skill gap map | ✅ Done |
-| Day 2 | Windows Event Logs | Event ID cheat sheet | ⬜ |
-| Day 3 | Splunk & SPL queries | SPL query library | ⬜ |
-| Day 4 | Wireshark & PCAP analysis | Investigation report | ⬜ |
-| Day 5 | Phishing analysis | Phishing triage SOP | ⬜ |
+| Day 2 | Windows Event Logs | Event ID cheat sheet | ✅|
+| Day 3 | Splunk & SPL queries | SPL query library | ✅ |
+| Day 4 | Wireshark & PCAP analysis | Investigation report | ✅ |
+| Day 5 | Phishing analysis | Phishing triage SOP | ✅ |
 
 *Updated daily.*
 
